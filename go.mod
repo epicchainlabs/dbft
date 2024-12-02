@@ -1,4 +1,4 @@
-module github.com/nspcc-dev/dbft
+module github.com/epicchainlabs/dbft
 
 go 1.20
 

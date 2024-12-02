@@ -16,9 +16,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/nspcc-dev/dbft"
-	"github.com/nspcc-dev/dbft/internal/consensus"
-	"github.com/nspcc-dev/dbft/internal/crypto"
+	"github.com/epicchainlabs/dbft"
+	"github.com/epicchainlabs/dbft/internal/consensus"
+	"github.com/epicchainlabs/dbft/internal/crypto"
 	"github.com/twmb/murmur3"
 	"go.uber.org/zap"
 )

@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"encoding/gob"
 
-	"github.com/nspcc-dev/dbft"
-	"github.com/nspcc-dev/dbft/internal/crypto"
-	"github.com/nspcc-dev/dbft/internal/merkle"
+	"github.com/epicchainlabs/dbft"
+	"github.com/epicchainlabs/dbft/internal/crypto"
+	"github.com/epicchainlabs/dbft/internal/merkle"
 )
 
 type (

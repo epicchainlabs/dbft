@@ -48,13 +48,13 @@ Improvements:
  * dependencies upgrades (#82, #85)
  * minimum required Go version upgrade to Go 1.19 (#83)
  * log messages adjustment (#88)
- * untie `dbft` module from `github.com/nspcc-dev/neo-go` dependency (#94)
+ * untie `dbft` module from `github.com/epicchainlabs/dbftneo-go` dependency (#94)
  * minimum required Go version upgrade to Go 1.20 (#100)
 
 ## [0.1.0] (15 May 2023)
 
 Stable dbft 2.0 implementation.
 
-[Unreleased]: https://github.com/nspcc-dev/dbft/compare/v0.2.0...master
-[0.2.0]: https://github.com/nspcc-dev/dbft/releases/v0.2.0
-[0.1.0]: https://github.com/nspcc-dev/dbft/releases/v0.1.0
+[Unreleased]: https://github.com/epicchainlabs/dbft/compare/v0.2.0...master
+[0.2.0]: https://github.com/epicchainlabs/dbft/releases/v0.2.0
+[0.1.0]: https://github.com/epicchainlabs/dbft/releases/v0.1.0

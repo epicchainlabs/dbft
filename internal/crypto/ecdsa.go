@@ -9,7 +9,7 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/nspcc-dev/dbft"
+	"github.com/epicchainlabs/dbft"
 )
 
 type (

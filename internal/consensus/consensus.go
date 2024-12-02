@@ -3,9 +3,9 @@ package consensus
 import (
 	"time"
 
-	"github.com/nspcc-dev/dbft"
-	"github.com/nspcc-dev/dbft/internal/crypto"
-	"github.com/nspcc-dev/dbft/timer"
+	"github.com/epicchainlabs/dbft"
+	"github.com/epicchainlabs/dbft/internal/crypto"
+	"github.com/epicchainlabs/dbft/timer"
 	"go.uber.org/zap"
 )
 

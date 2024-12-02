@@ -3,7 +3,7 @@ package consensus
 import (
 	"encoding/gob"
 
-	"github.com/nspcc-dev/dbft"
+	"github.com/epicchainlabs/dbft"
 )
 
 type (

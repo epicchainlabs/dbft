@@ -147,7 +147,7 @@ RMSendPrepareResponse(r) ==
      \* We do allow the transition from the "cv" state to the "prepareSent" or "commitSent" stage
      \* as it is done in the code-level dBFT implementation by checking the NotAcceptingPayloadsDueToViewChanging
      \* condition (see
-     \* https://github.com/nspcc-dev/dbft/blob/31c1bbdc74f2faa32ec9025062e3a4e2ccfd4214/dbft.go#L419
+     \* https://github.com/epicchainlabs/dbft/blob/31c1bbdc74f2faa32ec9025062e3a4e2ccfd4214/dbft.go#L419
      \* and
      \* https://github.com/neo-project/neo-modules/blob/d00d90b9c27b3d0c3c57e9ca1f560a09975df241/src/DBFTPlugin/Consensus/ConsensusService.OnMessage.cs#L79).
      \* However, we can't easily count the number of "lost" nodes in this specification to match precisely

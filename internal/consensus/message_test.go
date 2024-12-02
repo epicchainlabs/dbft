@@ -6,8 +6,8 @@ import (
 	"encoding/gob"
 	"testing"
 
-	"github.com/nspcc-dev/dbft"
-	"github.com/nspcc-dev/dbft/internal/crypto"
+	"github.com/epicchainlabs/dbft"
+	"github.com/epicchainlabs/dbft/internal/crypto"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

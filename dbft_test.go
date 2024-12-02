@@ -6,10 +6,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/nspcc-dev/dbft"
-	"github.com/nspcc-dev/dbft/internal/consensus"
-	"github.com/nspcc-dev/dbft/internal/crypto"
-	"github.com/nspcc-dev/dbft/timer"
+	"github.com/epicchainlabs/dbft"
+	"github.com/epicchainlabs/dbft/internal/consensus"
+	"github.com/epicchainlabs/dbft/internal/crypto"
+	"github.com/epicchainlabs/dbft/timer"
 	"github.com/stretchr/testify/require"
 	"go.uber.org/zap"
 )

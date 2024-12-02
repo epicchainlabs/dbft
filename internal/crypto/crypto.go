@@ -3,7 +3,7 @@ package crypto
 import (
 	"io"
 
-	"github.com/nspcc-dev/dbft"
+	"github.com/epicchainlabs/dbft"
 )
 
 type suiteType byte

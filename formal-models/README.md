@@ -434,7 +434,7 @@ Checker launch configuration for the four "honest" consensus nodes scenario:
 
 ### Running the TLC model checker
 
-1. Clone the [repository](https://github.com/nspcc-dev/dbft.git).
+1. Clone the [repository](https://github.com/epicchainlabs/dbft.git).
 2. Open the TLA⁺ Toolbox, open new specification and provide path to the desired
    `*.tla` file that contains the specification description.
 3. Create the model named `AllGoodModel` in the TLA⁺ Toolbox.
